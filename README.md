@@ -35,17 +35,28 @@ Telco churn data includes information about a fictitious telecom company that pr
 ### Task 1 : Exploring Data Analysis
 
 Step 1 : Examine the overall picture.
+
 Step 2 : Capture the numeric and categorical variables.
+
 Step 3 : Analyze the numerical and categorical variables.
+
 Step 4 : Perform target variable analysis. (The average of the target variable according to the categorical variables, the average of the numerical variables according to the target variable)
+
 Step 5 : Perform outlier observation analysis.
+
 Step 6 : Perform a missing observation analysis.
+
 Step 7 : Perform correlation analysis.
+
 
 ### Task 2 : Feature Engineering
 
 Step 1 :  Take the necessary actions for missing and contradictory observations.
+
 Step 2 : Create new variables.
+
 Step 3 : Perform the encoding operations.
+
 Step 4 : Standardize for numeric variables.
+
 Step 5 : Create the model.
